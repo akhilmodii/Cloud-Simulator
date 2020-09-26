@@ -1,10 +1,6 @@
-CS 441: Engineering Distributed Objects For Cloud Computing
-
 Akhil Snehal Modi
-UIN: 658281161
-NetID: amodi20@uic.edu
 
-Homework #1: create cloud simulators for evaluating executions of applications in cloud datacenters with different characteristics and deployment models.
+Create cloud simulators for evaluating executions of applications in cloud datacenters with different characteristics and deployment models.
 
 
 About the Application:
